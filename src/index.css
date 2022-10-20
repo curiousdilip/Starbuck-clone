@@ -1,3 +1,4 @@
+/* Global Styling  */
 body{
   font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
@@ -124,7 +125,7 @@ section a {
   opacity: 0.6;
 }
 
-
+/* Header Styling */
 .navbar {
   width: 100%;
   height: auto;
@@ -307,6 +308,7 @@ section a {
   }
 }
 
+/* Footer Styling */
 .footer-hero {
   padding: 2rem 14rem;
   font-size: 14px;
