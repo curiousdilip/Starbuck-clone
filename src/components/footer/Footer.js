@@ -30,8 +30,8 @@ const Footer = () => {
     setisOpenE(!isOpenE);
   };
   return (
-    <div className="footer">
-      <div className="footer-hero">
+    <>
+      <div className="footer">
         <p>
           *NO PURCHASE NECESSARY. Participating stores only. Ends 10/23/22. To
           enter and for Official Rules, visit{" "}
@@ -48,7 +48,7 @@ const Footer = () => {
           <a href="www.deltastarbucks.com/terms">deltastarbucks.com/terms</a>
         </p>
       </div>
-      <div className="footer-links">
+      <div className="footer-nav">
         <div className="footer-column">
           <p className="">
             About Us{" "}
@@ -152,7 +152,7 @@ const Footer = () => {
         </div>
         <p>© 2021 Starbucks Coffee Company. All rights reserved.</p>
       </div>
-    </div>
+    </>
   );
 };
 
