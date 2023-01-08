@@ -50,4 +50,4 @@ Once your server has started, go to this url `http://localhost:3000/` and you wi
 
 ## Link ✈
 
-- https://totalitycorp-frontend-challenge-three.vercel.app/
+- https://starbucks-clone-by-dilip.vercel.app/
